@@ -14,7 +14,7 @@ The objective of this project was not simply to achieve high accuracy, but to de
 - Model stability vs peak accuracy  
 - The structural difference between classical ML models and neural networks  
 
-Two real-world datasets were used:
+Two real world datasets were used:
 - Asia COVID-19 Cases Dataset (Kaggle)
 - Student Mental Health Dataset (Kaggle)
 
@@ -128,7 +128,7 @@ Significant preprocessing was required:
 
 ### COVID Dataset
 - Dropped irrelevant columns (ID, per-million metrics, redundant totals)
-- One-hot encoded `Country`
+- One hot encoded `Country`
 - Reduced dimensionality after encoding (53+ columns)
 
 ### Student Dataset
@@ -225,6 +225,5 @@ This project is maintained as part of my Artificial Intelligence coursework and 
 ---
 
 ## Author
-
-Mahi Chudela\
+Mahi Chudela
 ---
