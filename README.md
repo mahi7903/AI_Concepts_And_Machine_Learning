@@ -1,6 +1,4 @@
-# AI Concepts & Machine Learning Experiments  
-**Module:** 5CS021 – Concepts of AI  
-**Author:** Mahi Chudela  
+# AI Concepts & Machine Learning Experiments   
 
 ---
 
@@ -220,4 +218,13 @@ Documentation:
 
 ---
 
+
 This project is maintained as part of my Artificial Intelligence coursework and professional learning development.
+
+
+---
+
+## Author
+
+Mahi Chudela\
+---
